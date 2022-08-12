@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @r0lf
-- 👀 I’m interested in infrastructure
+- 👋 Hi, I’m @er0lf.
+- 👀 I’m interested in infrastructure.
 - 🌱 I’m currently learning Terraform.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Take care.
 
 <!---
 ericrolfsen/ericrolfsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
