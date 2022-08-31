@@ -2,7 +2,7 @@
 - 👀 I’m interested in security & infrastructure.
 - 🌱 I’m currently learning Terraform.
 - 📫 Take care.
-- 
+- Testing pipelines from VCS.
 
 <!---
 ericrolfsen/ericrolfsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
